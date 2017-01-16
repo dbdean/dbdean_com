@@ -22,18 +22,18 @@ These days, I'm trying to get back into mapping more, but I'm also
 starting a focus on side projects for AI and machine-learning for GIS
 applications to help the OpenStreetMap community.
 
-I have already done some work in this space back in 2011, where I
-worked with [Xufeng Guo][felix] to develop a dataset based on high-resolution
-aerial imagery from NearMap (which was CC-licensed at the time) and
-OpenStreetMap ground truth. We published our findings at the 2011
-Digital Image Computing Techniques and Applications (DICTA) conference:
+I have already done some work in this space, back in 2011, where I
+worked with [Felix Guo][felix] to develop a dataset based on high-resolution
+aerial imagery from [NearMap][nearmap] (which was CC-licensed at the time) and
+OpenStreetMap ground truth. We published our findings at the [2011
+Digital Image Computing Techniques and Applications (DICTA)][dicta2011] conference:
 
 > X. Guo, **D. Dean**, S. Denman, C. Fookes and S. Sridharan,
 > "[Evaluating Automatic Road Detection across a Large Aerial Imagery
 > Collection][roaddetectpaper]," *2011 International Conference on Digital Image Computing:
 > Techniques and Applications*, Noosa, QLD, 2011, pp. 140-145.
 
-The paper can be downloaded above, and the slides from our
+The paper can be downloaded [here][roaddetectpaper], and the slides from our
 presentation can be viewed below:
 
 <iframe src="https://drive.google.com/file/d/0Bw0XkNIYFiNbTkdZSV9MNEtLaWc/preview" width="480" height="389"></iframe>
@@ -48,10 +48,14 @@ I plan to fork the existing [DeepOSM][deeposm] project, and train and
 evaluate it over our large collection of aerial imagery. From there,
 more exciting things should follow, so stay tuned!
 
-[roaddetectpaper]: http://eprints.qut.edu.au/47715/1/DICTA2011.pdf
+[deeposm]: https://github.com/trailbehind/DeepOSM
+[dicta2011]: http://dicta2011.aprs.org.au/
 [events]: http://wiki.openstreetmap.org/wiki/Brisbane/Events
-[rgsq]: http://www.rgsq.org.au/
+[felix]: https://au.linkedin.com/in/felix-guo-9a684157
+[nearmap]: http://www.nearmap.com.au/
 [osm]: https://openstreetmap.org
 [osmprofile]: https://www.openstreetmap.org/user/David%20Dean
-[deeposm]: https://github.com/trailbehind/DeepOSM
-[felix]: https://au.linkedin.com/in/felix-guo-9a684157
+[rgsq]: http://www.rgsq.org.au/
+[roaddetectpaper]: http://eprints.qut.edu.au/47715/1/DICTA2011.pdf
+
+

@@ -18,13 +18,14 @@ interesting in mind!
 
 ## Some interesting projects I've been involved in
 
-**OpenStreetMap and Smart-GIS**: I've been an
+[**OpenStreetMap and Smart-GIS**][osmandsmartgis]: I've been an
 [OpenStreetMap][osm] [member][osmprofile] since 2007, and was
 responsible for a lot of the original mapping and social events in
 Brisbane, Australia. I want to get more into AI and machine-learning
 for GIS applications to help the OpenStreetMap community, and would
 love to be able to be paid to work in this space!
 
+[osmandsmartgis]: /osmandsmartgis
 [osm]: http://openstreetmap.org
 [osmprofile]: https://www.openstreetmap.org/user/David%20Dean
 

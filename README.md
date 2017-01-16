@@ -43,7 +43,7 @@ post-doctoral experience since completing my PhD in 2008 has focused
 on conducting research, development and commercialisation of state of
 the art speaker recognition and diarisation research.
 
-## Research
+## Research Publications
 
 As of January 2017, I have 529 citations across 70+ publications, with
 18 publications having more than 10 citations, and a h-index

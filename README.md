@@ -35,9 +35,11 @@ sleep quality through innovative acoustic analysis.
 
 [wink]: http://winkhealth.com
 
-**Audio-visual speech**: I have been working with audio-visual
+[**Audio-visual speech**][avspeech]: I have been working with audio-visual
 speech since 2004, and love showing that visual information is almost
 always complementary to acoustic over a wide range of applications.
+
+[avspeech]: /avspeech
 
 **Speaker recognition and diarisation**: A large part of my
 post-doctoral experience since completing my PhD in 2008 has focused

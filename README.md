@@ -16,7 +16,7 @@ interesting in mind!
 [linkedin]: http://linkedin.com/in/davidbdean
 [email]: mailto:ddean@ieee.org
 
-## Some interesting projects I've been involved in
+## Things I'm doing
 
 [**OpenStreetMap and Smart-GIS**][osmandsmartgis]: I've been an
 [OpenStreetMap][osm] [member][osmprofile] since 2007, and was

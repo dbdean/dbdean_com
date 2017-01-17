@@ -57,9 +57,9 @@ my [Google Scholar profile][scholar].
 
 Publication venues include:
 
-* *Speech Communication*,
-* *Computer Speech and Language*,
-* *IEEE Transactions on Audio, Speech and Language Processing*,
-* *International Conference on Acoustics Speech and Signal Processing (ICASSP)*,
-* *Interspeech*, and
-* *Auditory-Visual Speech Processing (AVSP) workshops*. 
+* *[Speech Communication](https://www.journals.elsevier.com/speech-communication)*,
+* *[Computer Speech and Language](https://www.journals.elsevier.com/computer-speech-and-language)*,
+* *[IEEE/ACM Transactions on Audio, Speech and Language Processing](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)*,
+* *[International Conference on Acoustics Speech and Signal Processing (ICASSP)](https://en.wikipedia.org/wiki/International_Conference_on_Acoustics,_Speech,_and_Signal_Processing)*,
+* *[Interspeech](http://www.isca-speech.org/iscaweb/index.php/conferences/interspeech)*, and
+* *[Auditory-Visual Speech Processing (AVSP) workshops](http://speech.kfs.oeaw.ac.at/faavsp2015/)*. 

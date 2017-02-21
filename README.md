@@ -29,6 +29,21 @@ love to be able to be paid to work in this space!
 [osm]: http://openstreetmap.org
 [osmprofile]: https://www.openstreetmap.org/user/David%20Dean
 
+**Teaching**: I have enjoyed supervising 7 PhD students over the past
+7 years, and have done occasional seasonal academic work for QUT over
+that time.
+
+I have just started with the University of Queensland develop an
+exciting new [Masters of Data Science][MDataSc], and I am looking
+forward to helping in the training of professional data scientists.
+
+I have recently started mentoring with
+[CoderDojo Brisbane][coderdojo], and helping kids get excited about
+coding is pretty awesome.
+
+[MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
+[coderdojo]: https://coderdojobrisbane.com.au/
+
 **Acoustic sleep diagnostics**: I am doing some work with an exciting
 start-up, [Wink Health][wink], to help people track and measure their
 sleep quality through innovative acoustic analysis.

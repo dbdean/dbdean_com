@@ -44,7 +44,7 @@ coding is pretty awesome.
 [MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
 [coderdojo]: https://coderdojobrisbane.com.au/
 
-**Acoustic sleep diagnostics**: I am doing some work with an exciting
+**Acoustic sleep diagnostics**: I have recently done some work with an exciting
 start-up, [Wink Health][wink], to help people track and measure their
 sleep quality through innovative acoustic analysis.
 
@@ -63,9 +63,9 @@ the art speaker recognition and diarisation research.
 
 ## Research publications
 
-As of February 2017, I have 558 citations across 70+ publications,
-with 19 publications having more than 10 citations, and a h-index
-of 13. More details, and a full list of publications can be found on
+As of February 2017, I have 651 citations across more than 70 publications,
+with 21 publications having more than 10 citations, and a h-index
+of 14. More details, and a full list of publications can be found on
 my [Google Scholar profile][scholar].
 
 [scholar]: https://scholar.google.com.au/citations?user=RG75LQYAAAAJ

@@ -44,11 +44,15 @@ coding is pretty awesome.
 [MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
 [coderdojo]: https://coderdojobrisbane.com.au/
 
-**Acoustic sleep diagnostics**: I have recently done some work with an exciting
-start-up, [Wink Health][wink], to help people track and measure their
-sleep quality through innovative acoustic analysis.
+**Medical machine learning**: I have recently done some machine-learning 
+consultation work with two exciting medical machine-learning start-ups, 
+[Wink Health][wink] in California, and [M3dicine][stethee] in Brisbane. 
+It's great to be able to help medical professionals and the general population
+to get access to improved health care through innovative signal processing
+and machine learning.
 
 [wink]: http://winkhealth.com
+[stethee]: https://au.linkedin.com/company/stethee
 
 [**Audio-visual speech**][avspeech]: I have been working with audio-visual
 speech since 2004, and love showing that visual information is almost

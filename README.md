@@ -67,8 +67,8 @@ the art speaker recognition and diarisation research.
 
 ## Research publications
 
-As of August 2017, I have 653 citations across more than 70 publications,
-with 21 publications having more than 10 citations, and a h-index
+As of November 2017, I have 692 citations across more than 75 publications,
+with 22 publications having more than 10 citations, and a h-index
 of 14. More details, and a full list of publications can be found on
 my [Google Scholar profile][scholar].
 

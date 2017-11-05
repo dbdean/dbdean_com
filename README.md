@@ -33,13 +33,13 @@ love to be able to be paid to work in this space!
 7 years, and have done occasional seasonal academic work for QUT over
 that time.
 
-I have just started with the University of Queensland develop an
-exciting new [Masters of Data Science][MDataSc], and I am looking
-forward to helping in the training of professional data scientists.
+In early 2017 I started with the University of Queensland develop an
+exciting new [Masters of Data Science][MDataSc], and I am enjoying
+developing datasets and teaching material that helps in the training
+of future professional data scientists.
 
-I have recently started mentoring with
-[CoderDojo Brisbane][coderdojo], and helping kids get excited about
-coding is pretty awesome.
+I have also done some mentoring with [CoderDojo Brisbane][coderdojo],
+and helping kids get excited about coding is pretty awesome.
 
 [MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
 [coderdojo]: https://coderdojobrisbane.com.au/

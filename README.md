@@ -6,17 +6,15 @@ machine-learning research algorithms and turning them into useful,
 reusable code that can make life easier for researchers, software
 engineers, and everyone else!
 
-## I'm looking for work!
+## I'm running OpenStreetMap events
 
-Feel free to download my [résumé][resume], or visit my
-[LinkedIn][linkedin]. Get in [touch][email] if you have something
-interesting in mind!
+If you came here looking for OpenStreetMap events in Brisbane, please
+go have a look at the [Brisbane Events Page][bneevents] on the OSM Wiki, or my
+[EventBrite][ev] page. If nothing is there: I've slacked off, clearly, so
+send [me an email](mailto:ddean@ieee.org) and ask me what's coming up.
 
-[resume]: /assets/David%20Dean%20Resume%202017.pdf
-[linkedin]: http://linkedin.com/in/davidbdean
-[email]: mailto:ddean@ieee.org
-
-## Things I'm doing
+[bnevents]:https://wiki.openstreetmap.org/wiki/Brisbane/Events
+[ev]:https://www.eventbrite.com/o/david-dean-15095586564
 
 [**OpenStreetMap and Smart-GIS**][osmandsmartgis]: I've been an
 [OpenStreetMap][osm] [member][osmprofile] since 2007, and was
@@ -29,7 +27,19 @@ love to be able to be paid to work in this space!
 [osm]: http://openstreetmap.org
 [osmprofile]: https://www.openstreetmap.org/user/David%20Dean
 
-**Teaching**: I have enjoyed supervising 7 PhD students over the past
+## I'm looking for work!
+
+Feel free to download my [résumé][resume], or visit my
+[LinkedIn][linkedin]. Get in [touch][email] if you have something
+interesting in mind!
+
+[resume]: /assets/David%20Dean%20Resume%202017.pdf
+[linkedin]: http://linkedin.com/in/davidbdean
+[email]: mailto:ddean@ieee.org
+
+## I'm teaching 
+
+I have enjoyed supervising 7 PhD students over the past
 7 years, and have done occasional seasonal academic work for QUT over
 that time.
 
@@ -44,7 +54,9 @@ and helping kids get excited about coding is pretty awesome.
 [MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
 [coderdojo]: https://coderdojobrisbane.com.au/
 
-**Medical machine learning**: I have recently done some machine-learning 
+## I've done medical machine learning
+
+I have recently done some machine-learning 
 consultation work with two exciting medical machine-learning start-ups, 
 [Wink Health][wink] in California, and [M3dicine][stethee] in Brisbane. 
 It's great to be able to help medical professionals and the general population
@@ -54,9 +66,11 @@ and machine learning.
 [wink]: http://winkhealth.com
 [stethee]: https://au.linkedin.com/company/stethee
 
-[**Audio-visual speech**][avspeech]: I have been working with audio-visual
-speech since 2004, and love showing that visual information is almost
-always complementary to acoustic over a wide range of applications.
+## I am a speech researcher
+
+I have been working with [audio-visual speech][avspeech] since 2004,
+and loved showing that visual information is almost always
+complementary to acoustic over a wide range of applications.
 
 [avspeech]: /avspeech
 
@@ -65,9 +79,9 @@ post-doctoral experience since completing my PhD in 2008 has focused
 on conducting research, development and commercialisation of state of
 the art speaker recognition and diarisation research.
 
-## Research publications
+## I have publications
 
-As of November 2017, I have 692 citations across more than 75 publications,
+As of November 2017, I have 695 citations across more than 75 publications,
 with 22 publications having more than 10 citations, and a h-index
 of 14. More details, and a full list of publications can be found on
 my [Google Scholar profile][scholar].

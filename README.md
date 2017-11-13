@@ -54,7 +54,7 @@ and helping kids get excited about coding is pretty awesome.
 [MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
 [coderdojo]: https://coderdojobrisbane.com.au/
 
-## I've done medical machine learning
+## I do medical machine learning
 
 I have recently done some machine-learning 
 consultation work with two exciting medical machine-learning start-ups, 

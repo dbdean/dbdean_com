@@ -13,7 +13,7 @@ go have a look at the [Brisbane Events Page][bneevents] on the OSM Wiki, or my
 [EventBrite][ev] page. If nothing is there: I've slacked off, clearly, so
 send [me an email](mailto:ddean@ieee.org) and ask me what's coming up.
 
-[bnevents]:https://wiki.openstreetmap.org/wiki/Brisbane/Events
+[bneevents]:https://wiki.openstreetmap.org/wiki/Brisbane/Events
 [ev]:https://www.eventbrite.com/o/david-dean-15095586564
 
 [**OpenStreetMap and Smart-GIS**][osmandsmartgis]: I've been an

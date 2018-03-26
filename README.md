@@ -6,7 +6,7 @@ machine-learning research algorithms and turning them into useful,
 reusable code that can make life easier for researchers, software
 engineers, and everyone else!
 
-## I do Machine Learning for TAFE NSW 
+## I do machine learning for TAFE NSW 
 
 I've recently started a new position in [Armidale][armidale], with TAFE Digital NSW as a machine learning specialist.
 We will be working with the new TAFE Digital organisation within TAFE NSW to consolidate online learning across the organisation,
@@ -20,6 +20,8 @@ When I was still in Brisbane, I ran local events for the OpenStreetMap community
 So, if you came here looking for OpenStreetMap events in Brisbane, please
 go have a look at the [Brisbane Events Page][bneevents] on the OSM Wiki, or my
 [EventBrite][ev] page. 
+
+I hope to start up similar events in Armidale soon!
 
 [bneevents]:https://wiki.openstreetmap.org/wiki/Brisbane/Events
 [ev]:https://www.eventbrite.com/o/david-dean-15095586564

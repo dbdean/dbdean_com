@@ -80,8 +80,8 @@ the art speaker recognition and diarisation research.
 
 ## I have publications
 
-As of November 2017, I have 695 citations across more than 75 publications,
-with 22 publications having more than 10 citations, and a h-index
+As of November 2017, I have 771 citations across more than 80 publications,
+with 24 publications having more than 10 citations, and a h-index
 of 14. More details, and a full list of publications can be found on
 my [Google Scholar profile][scholar].
 

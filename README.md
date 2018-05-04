@@ -102,6 +102,6 @@ But, if I was, you could feel free to download my [résumé][resume], or visit m
 [LinkedIn][linkedin]. Get in [touch][email] if you have something
 interesting in mind!
 
-[resume]: /assets/David%20Dean%20Resume%202017.pdf
+[resume]: /assets/David%20Dean%20Resume%202018.pdf
 [linkedin]: http://linkedin.com/in/davidbdean
 [email]: mailto:ddean@ieee.org

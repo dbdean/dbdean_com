@@ -1,6 +1,6 @@
 # About me
 
-I'm a machine learning researcher and software engineer with 12+ years
+I'm a machine learning researcher and software engineer with 14+ years
 of experience in developing and improving state-of-the art
 machine-learning research algorithms and turning them into useful,
 reusable code that can make life easier for researchers, software
@@ -8,18 +8,22 @@ engineers, and everyone else!
 
 ## I do machine learning for TAFE NSW 
 
-I've recently started a new position in [Armidale][armidale], with TAFE Digital NSW as a machine learning specialist.
-We will be working with the new TAFE Digital organisation within TAFE NSW to consolidate online learning across the organisation,
-and ensure that we can get the best outcomes for students with learning analytics and machine learning.
+I've recently started a new position in [Armidale][armidale], with
+TAFE Digital NSW as a machine learning specialist.  We will be working
+with the new TAFE Digital organisation within TAFE NSW to consolidate
+online learning across the organisation, and ensure that we can get
+the best outcomes for students with learning analytics and machine
+learning.
 
 [armidale]:https://en.wikipedia.org/wiki/Armidale,_New_South_Wales
 
 ## I run OpenStreetMap events
 
-When I was still in Brisbane, I ran local events for the OpenStreetMap community.
-So, if you came here looking for OpenStreetMap events in Brisbane, please
-go have a look at the [Brisbane Events Page][bneevents] on the OSM Wiki, or my
-[EventBrite][ev] page. 
+When I was still in Brisbane, I ran local events for the OpenStreetMap
+community.  So, if you came here looking for OpenStreetMap events in
+Brisbane, please go have a look at the
+[Brisbane Events Page][bneevents] on the OSM Wiki, or my
+[EventBrite][ev] page.
 
 I hope to start up similar events in Armidale soon!
 
@@ -42,8 +46,8 @@ I have enjoyed supervising 7 PhD students over the past
 7 years, and have done occasional seasonal academic work over
 that time as well.
 
-Throughout 2017, I worked with the University of Queensland developing an
-exciting new [Masters of Data Science][MDataSc], and I enjoyed
+Throughout 2017, I worked with the University of Queensland developing
+an exciting new [Masters of Data Science][MDataSc], and I enjoyed
 developing datasets and teaching material that helps in the training
 of future professional data scientists.
 
@@ -55,11 +59,11 @@ and helping kids get excited about coding is pretty awesome.
 
 ## I do medical machine learning
 
-I have recently done some machine-learning 
-consultation work with two exciting medical machine-learning start-ups, 
-[Wink Health][wink] in California, and [M3dicine][stethee] in Brisbane. 
-It's great to be able to help medical professionals and the general population
-to get access to improved health care through innovative signal processing
+I have recently done some machine-learning consultation work with two
+exciting medical machine-learning start-ups, [Wink Health][wink] in
+California, and [M3dicine][stethee] in Brisbane.  It's great to be
+able to help medical professionals and the general population to get
+access to improved health care through innovative signal processing
 and machine learning.
 
 [wink]: http://winkhealth.com
@@ -98,9 +102,9 @@ Publication venues include:
 
 ## I'm (not currently) looking for work
 
-But, if I was, you could feel free to download my [résumé][resume], or visit my
-[LinkedIn][linkedin]. Get in [touch][email] if you have something
-interesting in mind!
+But, if I was, you could feel free to download my [résumé][resume], or
+visit my [LinkedIn][linkedin]. Get in [touch][email] if you have
+something interesting in mind!
 
 [resume]: /assets/David%20Dean%20Resume%202018.pdf
 [linkedin]: http://linkedin.com/in/davidbdean

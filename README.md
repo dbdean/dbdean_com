@@ -1,23 +1,21 @@
 # About me
 
-I'm a machine learning researcher and software engineer with 14+ years
+I'm a machine learning manager, researcher and software engineer with 14+ years
 of experience in developing and improving state-of-the art
 machine-learning research algorithms and turning them into useful,
 reusable code that can make life easier for researchers, software
 engineers, and everyone else!
 
-## I do machine learning for TAFE NSW 
+## I run Learning Analytics at TAFE NSW 
 
-I've recently started a new position in [Armidale][armidale], with
-TAFE Digital NSW as a machine learning specialist.  We will be working
-with the new TAFE Digital organisation within TAFE NSW to consolidate
-online learning across the organisation, and ensure that we can get
-the best outcomes for students with learning analytics and machine
-learning.
+I'm now working with [TAFE NSW], leading the Learning Analytics Team in 
+their work to take a data-science approach, including AI and ML techniques, 
+to improve the learning experiences for vocational training across the entirety 
+of TAFE NSW.
 
-[armidale]:https://en.wikipedia.org/wiki/Armidale,_New_South_Wales
+[TAFE NSW]:https://www.tafensw.edu.au/
 
-## I run OpenStreetMap events
+## I used to run OpenStreetMap events
 
 When I was still in Brisbane, I ran local events for the OpenStreetMap
 community.  So, if you came here looking for OpenStreetMap events in
@@ -25,7 +23,7 @@ Brisbane, please go have a look at the
 [Brisbane Events Page][bneevents] on the OSM Wiki, or my
 [EventBrite][ev] page.
 
-I hope to start up similar events in Armidale soon!
+Armidale is a bit quiet for this sort of thing, but it would be great to get similar events running here.
 
 [bneevents]:https://wiki.openstreetmap.org/wiki/Brisbane/Events
 [ev]:https://www.eventbrite.com/o/david-dean-15095586564
@@ -40,7 +38,7 @@ for GIS applications to help the OpenStreetMap community.
 [osm]: http://openstreetmap.org
 [osmprofile]: https://www.openstreetmap.org/user/David%20Dean
 
-## I teach
+## I (used to) teach
 
 I have enjoyed supervising 7 PhD students over the past
 7 years, and have done occasional seasonal academic work over
@@ -57,9 +55,9 @@ and helping kids get excited about coding is pretty awesome.
 [MDataSc]: https://www.uq.edu.au/study/program.html?acad_prog=5660
 [coderdojo]: https://coderdojobrisbane.com.au/
 
-## I do medical machine learning
+## I (used to) do medical machine learning
 
-I have recently done some machine-learning consultation work with two
+In the past, I have done some machine-learning consultation work with two
 exciting medical machine-learning start-ups, [Wink Health][wink] in
 California, and [M3dicine][stethee] in Brisbane.  It's great to be
 able to help medical professionals and the general population to get

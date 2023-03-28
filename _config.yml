@@ -20,10 +20,10 @@
 
 title: David B Dean
 description: >- # this means to ignore newlines until "baseurl:"
-I’m a machine learning leader, researcher and data engineer with 19+ years of
-experience in developing and improving state-of-the art machine-learning
-research algorithms and turning them into useful, reusable code that can make
-life easier for researchers, software engineers, and everyone else!
+  I’m a machine learning leader, researcher and data engineer with 19+ years of
+  experience in developing and improving state-of-the art machine-learning
+  research algorithms and turning them into useful, reusable code that can make
+  life easier for researchers, software engineers, and everyone else!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dbdean.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_url: https://linkedin.com/in/davidbdean

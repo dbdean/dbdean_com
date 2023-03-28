@@ -33,9 +33,10 @@ scholar_url: https://scholar.google.com.au/citations?user=RG75LQYAAAAJ
 osm_url: https://www.openstreetmap.org/user/David%20Dean
 
 # Build settings
-theme: minima
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

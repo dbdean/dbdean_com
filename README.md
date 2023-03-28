@@ -80,7 +80,7 @@ with 44 publications having more than 10 citations, and a h-index
 of 21. More details, and a full list of publications can be found on
 my [Google Scholar profile][scholar].
 
-[scholar]: https://scholar.google.com.au/citations?user=RG75LQYAAAAJ
+[scholar]: {{site.scholar_url}}
 
 Publication venues include:
 
@@ -97,6 +97,6 @@ Feel free to download my [résumé][resume], or
 visit my [LinkedIn][linkedin]. Get in [touch][email] if you have
 something interesting in mind!
 
-[resume]: /assets/David%20Dean%20Resume%202018.pdf
-[linkedin]: http://linkedin.com/in/davidbdean
-[email]: mailto:ddean@ieee.org
+[resume]: {{site.resume_url}}
+[linkedin]: {{site.linkedin_url}}
+[email]: mailto://{{site.email}}

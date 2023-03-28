@@ -58,8 +58,8 @@ able to help medical professionals and the general population to get
 access to improved health care through innovative signal processing
 and machine learning.
 
-[wink]: http://winkhealth.com
-[stethee]: https://au.linkedin.com/company/stethee
+[wink]: https://www.linkedin.com/company/wink-health
+[stethee]: https://m3dicine.com/
 
 ## I've been a speech and video ML researcher
 

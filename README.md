@@ -34,19 +34,17 @@ and helping kids get excited about coding is pretty awesome.
 When I was still in Brisbane, I ran local events for the OpenStreetMap
 community.  So, if you came here looking for OpenStreetMap events in
 Brisbane, please go have a look at the
-[Brisbane Events Page][bneevents] on the OSM Wiki, or my
-[EventBrite][ev] page.
+[Brisbane Events Page][bneevents] on the OSM Wiki to see if something is happening.
 
 Armidale is a bit quiet for this sort of thing, but it would be great
 to get similar events running here.
 
 [bneevents]:https://wiki.openstreetmap.org/wiki/Brisbane/Events
-[ev]:https://www.eventbrite.com/o/david-dean-15095586564
 
 I've been an [OpenStreetMap][osm] [member][osmprofile] since 2007, and was
 responsible for a lot of the original mapping and social events in
-Brisbane, Australia. I want to get more into AI and machine-learning
-for GIS applications to help the OpenStreetMap community.
+Brisbane, Australia. I'm seeking to apply my AI and machine-learning
+experience into GIS applications that can help the OpenStreetMap community.
 
 [osm]: http://openstreetmap.org
 [osmprofile]: https://www.openstreetmap.org/user/David%20Dean
@@ -63,15 +61,15 @@ and machine learning.
 [wink]: http://winkhealth.com
 [stethee]: https://au.linkedin.com/company/stethee
 
-## I've been a speech and image ML researcher
+## I've been a speech and video ML researcher
 
 I have been working with audio-visual speech since 2004,
 and loved showing that visual information is almost always
 complementary to acoustic over a wide range of applications.
 
-**Speaker recognition and diarisation**: A large part of my 
-post-doctoral experience focused on conducting research, development
-and commercialisation of state of the art speaker recognition and diarisation research.
+A large part of my post-doctoral experience focused on conducting research,
+development and commercialisation of state of the art speaker recognition
+and diarisation research.
 
 ## I have publications
 
@@ -99,4 +97,4 @@ something interesting in mind!
 
 [resume]: {{site.resume_url}}
 [linkedin]: {{site.linkedin_url}}
-[email]: mailto://{{site.email}}
+[email]: mailto:{{site.email}}
